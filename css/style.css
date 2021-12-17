@@ -16,3 +16,13 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+.cabecera{
+    background-color: #33A;
+    color: white;
+    margin: 0; 
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px 0px #000000;
+    text-align: center;
+}
