@@ -26,3 +26,12 @@ body{
     box-shadow: 5px 5px 5px 0px #000000;
     text-align: center;
 }
+
+#footer{
+    width: 70%;
+    padding: 1em;
+    margin: 0 auto;
+    border: 1px solid black; 
+    text-align: center;
+    background-color: honeydew;
+}
