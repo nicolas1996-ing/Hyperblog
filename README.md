@@ -11,5 +11,6 @@ En este curso veremos de todo :
 - El verdadero amor por las buenas prácticas 
 - Trucos muy locos del profesor 
 - Las multiples personalidades d e Freddy
+- creado por el increible platzi team 
 
 Y como amable recordatorio **Este readme es una prueba** diseñada para la prueba 
